@@ -43,13 +43,6 @@ Tenho como objetivo conquistar minha vaga na área, continuar minha evolução e
 - **Mini Projetos Python** (cadeia de caracteres e lógica)
 
 ---
-📊 Estatísticas do GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelo-augusto-ads&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-augusto-ads&layout=compact&theme=tokyonight&hide_border=true)
-
-
----
 
 ## ❤️ Sobre mim
 Gosto de estudar, evoluir e construir minha trajetória na tecnologia com dedicação e constância.  
